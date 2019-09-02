@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iNube.Services.UserManagement", "iNube.Services.UserManagement\iNube.Services.UserManagement.csproj", "{1B2A22E0-3157-4C34-AFF5-DDC88BFB8221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{7BC54E3B-EA54-475D-9C0A-926C17BADD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2A22E0-3157-4C34-AFF5-DDC88BFB8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2A22E0-3157-4C34-AFF5-DDC88BFB8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2A22E0-3157-4C34-AFF5-DDC88BFB8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2A22E0-3157-4C34-AFF5-DDC88BFB8221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE53F12E-5541-4952-BC29-762C848B99E5}
+	EndGlobalSection
+EndGlobal

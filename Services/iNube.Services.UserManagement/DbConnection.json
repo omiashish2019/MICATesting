@@ -1,0 +1,22 @@
+[
+  {
+    "name": "MicaDev",
+    "dbconnection": "Data Source=inubesql.database.windows.net;Initial Catalog=MICADev;User Id=MICAUSER;Password=MICA*user123"
+  },
+  {
+    "name": "Mica",
+    "dbconnection": "Data Source=inubesql.database.windows.net;Initial Catalog=MICADev;User Id=MICAUSER;Password=MICA*user123"
+  },
+  {
+    "name": "MicaProd",
+    "dbconnection": "Data Source=inubesql.database.windows.net;Initial Catalog=MICAProd;User Id=MICAUSER;Password=MICA*user123"
+  },
+  {
+    "name": "MicaTest",
+    "dbconnection": "Data Source=inubesql.database.windows.net;Initial Catalog=MICAProdTest;User Id=MICAUSER;Password=MICA*user123"
+  },
+  {
+    "name": "AvoDev",
+    "dbconnection": "Data Source=inubesql.database.windows.net;Initial Catalog=AVOLifeP2;User Id=AVOLifeUserP2;Password=AVOLife*User123"
+  }
+]

@@ -1,0 +1,14 @@
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.csproj.CoreCompileInputs.cache
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.RazorAssemblyInfo.cache
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.RazorAssemblyInfo.cs
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.AssemblyInfoInputs.cache
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.AssemblyInfo.cs
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\bin\Release\netcoreapp2.2\iNube.Services.UserManagement.deps.json
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\bin\Release\netcoreapp2.2\iNube.Services.UserManagement.runtimeconfig.json
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\bin\Release\netcoreapp2.2\iNube.Services.UserManagement.runtimeconfig.dev.json
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\bin\Release\netcoreapp2.2\iNube.Services.UserManagement.dll
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\bin\Release\netcoreapp2.2\iNube.Services.UserManagement.pdb
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.RazorTargetAssemblyInfo.cache
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.dll
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.pdb
+E:\AzureRepos\UI\MICA\Services\iNube.Services.UserManagement\obj\Release\netcoreapp2.2\iNube.Services.UserManagement.csprojAssemblyReference.cache
